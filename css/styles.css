@@ -1,0 +1,149 @@
+a {
+  text-decoration: none;
+
+}
+
+
+body {
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #79a8a9;
+}
+
+h2 {
+  color: #79a8a9;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #1f4e5f;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #f4f7f7;
+  border-width: 7px;
+  width: 4%;
+}
+
+p {
+  line-height: 2;
+  color: #40514E;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.bottom-container{
+  background-color: #aacfd0;
+  font-family: 'Montserrat', sans-serif;
+  padding: 50px 0 20px;
+  margin-top: 50px;
+}
+
+.butn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #79a8a9;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #1f4e5f;
+  text-decoration: none;
+}
+
+.computer {
+  float: left;
+  margin-right: 30px;
+  height: 25%;
+  width: 25%;
+}
+
+.contact-me{
+  margin: 50px 0;
+}
+
+.contact-me-text{
+  margin: 50px auto;
+  width: 30%;
+}
+
+.copyright{
+  font-size: 0.8rem;
+  padding-top: 20px;
+  color: #f4f7f7;
+}
+
+
+.footer-link{
+  color: #79a8a9;
+  margin-top: 50px;
+  padding: 25px;
+}
+
+.footer-link:hover{
+  color: #1f4e5f;
+}
+
+.music {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+  height: 25%;
+}
+
+.profile {
+  line-height: 2;
+  margin: 100px auto;
+  width: 50%;
+}
+
+.profile-picture {
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+}
+
+.skills{
+  margin-top: 100px;
+}
+
+.skill-row {
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.top-container {
+  background-color: #f4f7f7;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 50px;
+}
